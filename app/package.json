@@ -1,0 +1,14 @@
+{
+  "name": "capistrano-bower",
+  "version": "1.0.0",
+  "description": "Capistrano with Bower Dockbit Example",
+  "scripts": {
+    "build": "bower install"
+  },
+  "author": "Dockbit Team",
+  "repository": { 
+    "type": "git", 
+    "url": "git@github.com:DockbitExamples/capistrano-bower.git"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "capistrano-bower",
+  "description": "Capistrano with Bower Dockbit Example",
+  "main": "",
+  "authors": [
+    "Dockbit Team"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "moment": "^2.15.1"
+  }
+}
