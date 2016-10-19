@@ -6,9 +6,12 @@
     "build": "bower install"
   },
   "author": "Dockbit Team",
-  "repository": { 
-    "type": "git", 
+  "repository": {
+    "type": "git",
     "url": "git@github.com:DockbitExamples/capistrano-bower.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "bower": "^1.7.9"
+  }
 }
